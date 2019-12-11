@@ -1,4 +1,4 @@
-
+<script type="text/javascript">
 //Company Name Validation
 
 var f_filter =  /^[0-9a-zA-Z .]+$/;
@@ -70,4 +70,4 @@ else
 });
 });
 
-
+</script>
